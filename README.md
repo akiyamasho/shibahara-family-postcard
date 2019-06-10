@@ -29,3 +29,5 @@ I don't have much free time this week, but I'll make sure to finish the post car
 ![Postcard](postcard/03_postcard_staging.jpg)
 
 ### Messages
+
+"Congratulations on you greatest creation to date! Wishing you all the best for Hana-chan." - Omar Reid (@reido2012)
