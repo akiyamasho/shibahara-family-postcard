@@ -35,3 +35,4 @@ I don't have much free time this week, but I'll make sure to finish the post car
 - "Congratulations and best wishes to your happy family!" - Dimitrios Bakinezos
 - “Mehdi & Mehdi’s wife, congrats on what a joyous event! All the best on your next adventure in life." - Ayan Ray (@ayanray)
 - "Congratulations and good luck with this new phase of your life" - Joe (@joebullard)
+- "Congratulations on the birth of your baby girl, and best wishes for a happy future together!" - Emanuele Frandi (@efrandi)
