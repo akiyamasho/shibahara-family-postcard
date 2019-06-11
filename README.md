@@ -32,3 +32,4 @@ I don't have much free time this week, but I'll make sure to finish the post car
 
 - "Congratulations on you greatest creation to date! Wishing you all the best for Hana-chan." - Omar Reid (@reido2012)
 - “メディ、奥様ご出産おめでとうございます。無事お生まれになったと聞いて嬉しい限りです。忙しい中だと思いますが、お身体しっかりお休みになって是非これからの子育てを楽しんでください。メディ、また会えるのを楽しみにしています。” - Jun Iinuma
+- "Congratulations and best wishes to your happy family!" - Dimitrios Bakinezos
