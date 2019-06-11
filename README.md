@@ -34,4 +34,5 @@ I don't have much free time this week, but I'll make sure to finish the post car
 - “メディ、奥様ご出産おめでとうございます。無事お生まれになったと聞いて嬉しい限りです。忙しい中だと思いますが、お身体しっかりお休みになって是非これからの子育てを楽しんでください。メディ、また会えるのを楽しみにしています。” - Jun Iinuma
 - "Congratulations and best wishes to your happy family!" - Dimitrios Bakinezos
 - “Mehdi & Mehdi’s wife, congrats on what a joyous event! All the best on your next adventure in life." - Ayan Ray (@ayanray)
+- "Congratulations and good luck with this new phase of your life" - Joe (@joebullard)
 - "Congratulations on the birth of your baby girl, and best wishes for a happy future together!" - Emanuele Frandi (@efrandi)
