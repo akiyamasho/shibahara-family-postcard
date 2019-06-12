@@ -33,6 +33,7 @@ Simply make a PR and update `README.md` with the following format:
 - "Congratulations on the birth of your baby girl, and best wishes for a happy future together!" - Emanuele Frandi (@efrandi)
 - "Warmest congratulations on the birth of your sweet baby!" - Philippe Remy (@philipperemy)
 - "Congratulations! I wish you all the best, with such world-class parents I'm sure she's going to be amazing!" - Antoine Lecubin
+- "メディさん、本当におめでとうございます。\n奥さま、本当に頑張りましたね、お疲れさまです！\nいよいよ、何よりも大変で何よりも素晴らしい日々が始まりますね。\nご家族みんなで、健やかに毎日を楽しんでください。" -（10歳ママの黒鉄かよ）
 
 ### Current Postcard Progress
 
