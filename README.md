@@ -32,10 +32,10 @@ Simply make a PR and update `README.md` with the following format:
 - "Congratulations and good luck with this new phase of your life" - Joe (@joebullard)
 - "Congratulations on the birth of your baby girl, and best wishes for a happy future together!" - Emanuele Frandi (@efrandi)
 - "Warmest congratulations on the birth of your sweet baby!" - Philippe Remy (@philipperemy)
+- "Congratulations! I wish you all the best, with such world-class parents I'm sure she's going to be amazing!" - Antoine Lecubin
 
 ### Current Postcard Progress
 
 I don't have much free time this week, but I'll make sure to finish the post card before Friday!
 
 ![Postcard](postcard/03_postcard_staging.jpg)
-
