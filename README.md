@@ -1,5 +1,9 @@
 ### Shibahara Family Postcard
 
+_2019/06/14 Update_: Thank you for everyone who sent their message! The postcard has been sent to Mehdi! 🎉
+ 
+------
+
 Mehdi's baby Hana-chan has been born this week! 🎊 🎉
 
 I'm planning to draw and paint a postcard and include everyone's messages/wishes.
@@ -40,4 +44,4 @@ Simply make a PR and update `README.md` with the following format:
 
 I don't have much free time this week, but I'll make sure to finish the post card before Friday!
 
-![Postcard](postcard/03_postcard_staging.jpg)
+![Postcard](out/full.jpg)
