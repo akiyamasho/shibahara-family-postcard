@@ -1,6 +1,10 @@
 ### Shibahara Family Postcard
 
-_2019/06/14 Update_: Thank you for everyone who sent their message! The postcard has been sent to Mehdi! 🎉
+##### _2019/06/14 Update
+
+Thank you for everyone who sent their message! The postcard has been sent to Mehdi! 🎉
+
+皆さんお疲れ様でした！
  
 ------
 
@@ -26,7 +30,6 @@ Simply make a PR and update `README.md` with the following format:
 
 - "Congratulations!" - John Doe (@johndoe59314134234)
 
-
 ### Messages
 
 - "Congratulations on your greatest creation to date! Wishing you all the best for Hana-chan." - Omar Reid (@reido2012)
@@ -40,8 +43,6 @@ Simply make a PR and update `README.md` with the following format:
 - "メディさん、本当におめでとうございます。\n奥さま、本当に頑張りましたね、お疲れさまです！\nいよいよ、何よりも大変で何よりも素晴らしい日々が始まりますね。\nご家族みんなで、健やかに毎日を楽しんでください。" -10歳ママの黒鉄かよ
 - "出産おめでとう！家族全員無事でよかった、一安心だね。子供を信じて尊重して、Mehdiと奥さんでより一層素敵な家族になってください。" - Taka
 
-### Current Postcard Progress
+### Final Postcard
 
-I don't have much free time this week, but I'll make sure to finish the post card before Friday!
-
-![Postcard](out/full.jpg)
+![Postcard](out/full.png)
